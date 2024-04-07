@@ -17,8 +17,8 @@ This project is a RESTful API for managing contacts built using Java Spring Boot
 <h2>Getting Started</h2>
 To run the Contact Management System API on your local machine, follow these steps:</br>
 
-Clone the repository: git clone https://github.com/Sachin-Mishra007/Contact-Management-System</br>
-Navigate to the project directory: cd Contact-Management-System</br>
+Clone the repository: https://github.com/Sachin-Mishra007/contactmanagementsystem</br>
+Navigate to the project directory: cd contactmanagementsystem</br>
 Configure MySQL database settings in application.properties.</br>
 Run the application: ./mvnw spring-boot:run</br>
 The API will be accessible at http://localhost:8080.</br>
